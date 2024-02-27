@@ -1,1 +1,0 @@
-It is a simple counter app which is basically create for react hook practice.
